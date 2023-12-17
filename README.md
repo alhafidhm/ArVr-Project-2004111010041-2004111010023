@@ -1,1 +1,3 @@
-# ArVr-Project-2004111010041-2004111010023
+# AR-Furniture
+Augmented Reality android app to visualize furniture.
+with ViedoNode in AR Scene
